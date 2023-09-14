@@ -36,11 +36,15 @@ status: Completed
 전체 기여자 목록은 [GitHub 페이지](https://github.com/cncf/glossary/graphs/contributors)에서 확인할 수 있다.
 
 클라우드 네이티브 용어집 프로젝트는 메인테이너인 
-[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/),
-[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/),
+[Seokho Son](https://www.linkedin.com/in/seokho-son/),
+[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/), 
 [Jihoon Seo](https://www.linkedin.com/in/jihoon-seo/),
-[Noah Ispas](https://www.linkedin.com/in/noah-ispas-0665b42a/),
-그리고 [Seokho Son](https://www.linkedin.com/in/seokho-son/)가 운영 및 관리하고 있다.
+[Nate W.](https://www.linkedin.com/in/nate-double-u/),
+그리고 [Jorge Castro](https://www.linkedin.com/in/jorge-castro2112/)가 운영 및 관리하고 있다.
+
+[Catherine Paganini](https://www.linkedin.com/in/catherinepaganini/en/)와
+[Jason Morgan](https://www.linkedin.com/in/jasonmorgan2/)은
+명예 메인테이너이며, 오랫동안 귀중한 기여를 해주신 것에 대해 감사를 표한다.
 
 그리고, 한국어 클라우드 네이티브 용어집은
 [Jihoon Seo (서지훈)](https://www.linkedin.com/in/jihoon-seo/),
